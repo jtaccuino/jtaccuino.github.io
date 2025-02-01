@@ -50,7 +50,7 @@ Some text
 
 #### Location for images
 
-Upload new images to `/static/assets/` (please use a subdirectory per chapter).
+Upload new images to `/static/assets/`.
 
 #### Single image 
 

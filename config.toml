@@ -108,3 +108,11 @@ name = "<i class='fab more-tag fa-github'></i> GitHub project"
 identifier = "github"
 url = "https://github.com/jtaccuino"
 weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab more-tag fa-bluesky'></i> Bluesky"
+identifier = "bluesky"
+url = "https://bsky.app/profile/jtaccuino.github.io"
+weight = 15
+
+
