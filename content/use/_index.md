@@ -32,5 +32,5 @@ When you hit the play button of the block, the text gets visualized.
 
 ### Loading Examples
 
-Check the [examples](https://github.com/jtaccuino/jtaccuino/tree/main/examples) for more advanced use.
+Check the [examples](https://github.com/jtaccuino/jtaccuino/tree/main/examples) for more advanced use. You can execute a complete notebook at once, by clicking the play button in the top menu bar.
 
