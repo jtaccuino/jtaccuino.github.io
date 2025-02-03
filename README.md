@@ -58,33 +58,6 @@ To include a single image in your content use the following structure:
 
 `![DESCRIPTION](/assets/DIR/FILE)`
 
-#### Gallery image view
-
-For multiple images a gallery view can be used thanks to the integration of [Hugo Easy Gallery](https://www.liwen.id.au/heg/#gallery-usage).
-
-Example use:
-
-```
-{{< gallery >}}
-{{< figure link="/assets/DIR/FILE" caption="DESCRIPTION" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/assets/DIR/FILE" caption="DESCRIPTION" caption-position="center" caption-effect="fade" >}}
-{{< /gallery >}}
-{{< load-photoswipe >}}
-```
-
-Please note `{{< load-photoswipe >}}`, the last line only must be added once per page if multiple galleries are used.
-
-For example:
-
-```
-{{< gallery >}}
-{{< figure link="/assets/image.jpg" caption="" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/assets/image.jpg" caption="" caption-position="center" caption-effect="fade" >}}
-{{< figure link="/assets/image.jpg" caption="" caption-position="center" caption-effect="fade" >}}
-{{< /gallery >}}
-{{< load-photoswipe >}}
-```
-
 ### Test locally
 
 To test the site locally, first install Hugo as described on ["Install Hugo"](https://gohugo.io/getting-started/installing/).
