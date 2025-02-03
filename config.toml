@@ -99,11 +99,6 @@ home = ["HTML", "RSS", "JSON"]
     disableLatLong = false
 
 [[menu.shortcuts]]
-name = "<i class='fas more-tag fa-tags'></i> Tags"
-url = "/tags"
-weight = 5
-
-[[menu.shortcuts]]
 name = "<i class='fab more-tag fa-github'></i> GitHub project"
 identifier = "github"
 url = "https://github.com/jtaccuino"
