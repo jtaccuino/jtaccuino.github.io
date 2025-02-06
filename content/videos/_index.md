@@ -7,6 +7,10 @@ weight: 100
 
 The project got presented at various conferences.
 
+### JavaFX In Action Interview
+
+{{< youtube gkHgsamCoGc >}}
+
 ### JChampions Conference 2025, Online
 
 {{< youtube R1gHQtBXfYk >}}
